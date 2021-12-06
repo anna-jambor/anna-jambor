@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Anna and I am a Talent Acquisition Partner at Genesys in Budapest, Hungary.
 
 - 🔭 I’m currently working on growing the Experience/Development Center of Genesys in Budapest.
 - 🌱 I’m currently learning design thinking.
